@@ -25,7 +25,7 @@ result=np.linalg.solve(a,b)
 print(result)
 ```
 ## Output:
-![image](/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/image.png)
+![image](/image.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program!
 
